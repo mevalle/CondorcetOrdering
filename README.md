@@ -1,2 +1,3 @@
-# CondorcetOrdering
-Approaches to Approximate Condorcet Ordering for Vector-Valued Mathematical Morphology
+# Condorcet Ordering
+
+This repository contains methods for Approximate Condorcet Ordering in the context of Vector-Valued Mathematical Morphology.
